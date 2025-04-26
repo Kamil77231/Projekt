@@ -1,4 +1,6 @@
 # ReelInfo
+<img src="fi.png" width="100" alt="ReelInfo Logo">
+
 
 **ReelInfo** to nowoczesna, responsywna aplikacja internetowa, która pełni rolę informacyjnej bazy danych filmów i seriali. Projekt skierowany jest do miłośników kina, studentów, blogerów filmowych oraz wszystkich osób poszukujących aktualnych informacji o premierach, recenzjach i ciekawostkach filmowych.
 
